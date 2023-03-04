@@ -1,0 +1,35 @@
+/* =================== TERMS & CONDITIONS ==================== */
+.terms-conditions {
+  background: var(--color-bg2);
+  margin-top: -0.5rem;
+}
+
+.terms__img {
+  width: 55%;
+  margin: 0 auto;
+}
+
+.terms__info {
+  margin: 2.5rem 3rem;
+}
+
+.terms__info h2 {
+  margin-top: 3.5rem;
+  margin-bottom: 1.5rem;
+  text-align: left;
+}
+
+.terms__info a {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.terms__info p {
+  font-size: 1.1rem;
+  margin-top: 1.5rem;
+}
+
+.terms__info li {
+  list-style: square;
+  margin: 0.3rem;
+}

@@ -1,0 +1,35 @@
+/* =================== PRIVACY POLICY ==================== */
+.privacy-policy {
+  background: var(--color-bg2);
+  margin-top: -2rem;
+}
+
+.privacy__img {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.privacy__info {
+  margin: 2.5rem 3rem;
+}
+
+.privacy__info h2 {
+  margin-top: 3.5rem;
+  margin-bottom: 1.5rem;
+  text-align: left;
+}
+
+.privacy__info p {
+  font-size: 1.1rem;
+  margin-top: 1.5rem;
+}
+
+.privacy__info li {
+  list-style: square;
+  margin: 0.3rem;
+}
+
+.privacy__info a {
+  text-decoration: underline;
+  font-style: italic;
+}

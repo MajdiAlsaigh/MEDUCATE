@@ -1,0 +1,39 @@
+/* =================== REFUND POLICY ==================== */
+.refund-policy {
+  background: var(--color-bg2);
+  margin-top: -0.5rem;
+}
+
+.refund__img {
+  width: 55%;
+  margin: 0 auto;
+}
+
+.refund__info {
+  margin: 2.5rem 3rem;
+}
+
+.refund__info h2 {
+  margin-top: 3.5rem;
+  margin-bottom: 1.5rem;
+  text-align: left;
+}
+
+.refund__info h4 {
+  margin: 2rem 0 -1rem;
+}
+
+.refund__info p {
+  font-size: 1.1rem;
+  margin-top: 1.5rem;
+}
+
+.refund__info li {
+  list-style: square;
+  margin: 0.3rem;
+}
+
+.refund__info a {
+  text-decoration: underline;
+  font-style: italic;
+}
